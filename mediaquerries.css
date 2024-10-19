@@ -49,6 +49,7 @@
         }
         #profile{
             height: 83vh;
+            margin-bottom: 0;
             margin-bottom: -50vh;
         }
         article{
